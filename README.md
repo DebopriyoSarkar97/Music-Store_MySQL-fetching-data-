@@ -1,9 +1,13 @@
+# Music-Store_MySQL-fetching-data-
 
 /*Who is the senior most employee?*/
+
 select * from employee
+
 order by levels desc
+
 limit 1;
-![image](https://github.com/DebopriyoSarkar97/Music-Store_MySQL-fetching-data-/assets/107385671/48afff2a-736c-4030-980f-5fed22ce94e3)# Music-Store_MySQL-fetching-data-
+![image](https://github.com/DebopriyoSarkar97/Music-Store_MySQL-fetching-data-/assets/107385671/48afff2a-736c-4030-980f-5fed22ce94e3)
 
 
 /* Which countries have the most invoices? 
